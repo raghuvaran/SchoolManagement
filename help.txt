@@ -1,0 +1,16 @@
+----Steps to Convert into Excel----
+1)Open "MS Office Excel 2010" or Any advanced version
+
+2)File-->Open
+
+	-Locate "studentdata_excel.txt" in the directory
+3)Select "Delimited" radiobutton
+
+4)Select "Next"
+
+5)Select "Semicolon" radiobutton
+
+6)Select "Finish"
+
+			----Congrats	----You're done!!----
+	

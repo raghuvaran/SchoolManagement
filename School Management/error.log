@@ -1,0 +1,168 @@
+
+
+Error log timestamp Saturday 25-05-13 09:38:42 AM
+
+Runtime error: OS Error: The system cannot find the file specified.
+
+Error(Exception)>>defaultAction
+Error(Exception)>>activateHandler: <anUndefinedObject> 
+Error(Exception)>>handle
+Error(Exception)>>signal
+Error class(Exception class)>>signal: <'OS Error: The system...'> 
+BasicRunProgram(Object)>>error: <'OS Error: The system...'> 
+BasicRunProgram(BasicProgram)>>terminateRun: <aFileError> 
+[] in BasicProgram>>errorHandlerBlock
+ExceptionHandler>>evaluateResponseBlock: <aBlockClosure> for: <aFileError> 
+[] in ExceptionHandler>>handle:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>handle: <aFileError> 
+ExceptionHandler>>findHandler: <aFileError> 
+FileError(Exception)>>activateHandler: <anExceptionHandler> 
+FileError(Exception)>>handle
+FileError(Exception)>>signal
+FileError class>>signal: <'OS Error: The system...'> hostErrorCode: <2> 
+HostFileSystemError>>defaultAction
+ExceptionHandler>>findHandler: <aHostFileSystemError> 
+HostFileSystemError(Exception)>>activateHandler: <anExceptionHandler> 
+HostFileSystemError(Exception)>>handle
+HostFileSystemError(Exception)>>signal
+HostFileSystemError class>>signalWith: <2> 
+FileHandle class>>osError: <2> 
+FileHandle class(Object)>>osError
+[] in FileHandle class>>open:access:share:create:attributes:
+ExceptionHandler>>evaluateProtectedBlock: <aBlockClosure> 
+[] in ExceptionHandler>>activateDuring:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>activateDuring: <aBlockClosure> 
+ExceptionHandler class>>handle: <anExceptionSet> with: <aBlockClosure> during: <aBlockClosure> 
+BlockClosure>>on: <anExceptionSet> do: <aBlockClosure> 
+FileHandle class>>open: <'I:\Liberty basic sch...'> access: <2147483648> share: <3> create: <3> attributes: <128> 
+FileHandle class>>open: <'serial.txt'> in: <aDirectory> access: <2147483648> share: <3> create: <3> attributes: <128> 
+FileHandle class>>openReadOnly: <'serial.txt'> in: <aDirectory> 
+File>>openReadOnly
+File>>readStream
+File class>>pathNameReadOnly: <'serial.txt'> in: <aDirectory> 
+Directory>>fileReadOnly: <'serial.txt'> 
+BasicFile>>from: <'serial.txt'> mode: <'INPUT'> handle: <'#ser'> 
+BasicFile class>>from: <'serial.txt'> mode: <'INPUT'> handle: <'#ser'> owner: <aBasicRunProgram> length: <anUndefinedObject> 
+[] in OpenCommand>>using:
+[] in BasicRunProgram>>begin
+ExceptionHandler>>evaluateProtectedBlock: <aBlockClosure> 
+[] in ExceptionHandler>>activateDuring:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>activateDuring: <aBlockClosure> 
+
+
+Error log timestamp Saturday 25-05-13 09:38:50 AM
+
+Runtime error: OS Error: The system cannot find the file specified.
+
+Error(Exception)>>defaultAction
+Error(Exception)>>activateHandler: <anUndefinedObject> 
+Error(Exception)>>handle
+Error(Exception)>>signal
+Error class(Exception class)>>signal: <'OS Error: The system...'> 
+BasicRunProgram(Object)>>error: <'OS Error: The system...'> 
+BasicRunProgram(BasicProgram)>>terminateRun: <aFileError> 
+[] in BasicProgram>>errorHandlerBlock
+ExceptionHandler>>evaluateResponseBlock: <aBlockClosure> for: <aFileError> 
+[] in ExceptionHandler>>handle:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>handle: <aFileError> 
+ExceptionHandler>>findHandler: <aFileError> 
+FileError(Exception)>>activateHandler: <anExceptionHandler> 
+FileError(Exception)>>handle
+FileError(Exception)>>signal
+FileError class>>signal: <'OS Error: The system...'> hostErrorCode: <2> 
+HostFileSystemError>>defaultAction
+ExceptionHandler>>findHandler: <aHostFileSystemError> 
+HostFileSystemError(Exception)>>activateHandler: <anExceptionHandler> 
+HostFileSystemError(Exception)>>handle
+HostFileSystemError(Exception)>>signal
+HostFileSystemError class>>signalWith: <2> 
+FileHandle class>>osError: <2> 
+FileHandle class(Object)>>osError
+[] in FileHandle class>>open:access:share:create:attributes:
+ExceptionHandler>>evaluateProtectedBlock: <aBlockClosure> 
+[] in ExceptionHandler>>activateDuring:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>activateDuring: <aBlockClosure> 
+ExceptionHandler class>>handle: <anExceptionSet> with: <aBlockClosure> during: <aBlockClosure> 
+BlockClosure>>on: <anExceptionSet> do: <aBlockClosure> 
+FileHandle class>>open: <'I:\Liberty basic sch...'> access: <2147483648> share: <3> create: <3> attributes: <128> 
+FileHandle class>>open: <'serial.txt'> in: <aDirectory> access: <2147483648> share: <3> create: <3> attributes: <128> 
+FileHandle class>>openReadOnly: <'serial.txt'> in: <aDirectory> 
+File>>openReadOnly
+File>>readStream
+File class>>pathNameReadOnly: <'serial.txt'> in: <aDirectory> 
+Directory>>fileReadOnly: <'serial.txt'> 
+BasicFile>>from: <'serial.txt'> mode: <'INPUT'> handle: <'#ser'> 
+BasicFile class>>from: <'serial.txt'> mode: <'INPUT'> handle: <'#ser'> owner: <aBasicRunProgram> length: <anUndefinedObject> 
+[] in OpenCommand>>using:
+[] in BasicRunProgram>>begin
+ExceptionHandler>>evaluateProtectedBlock: <aBlockClosure> 
+[] in ExceptionHandler>>activateDuring:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>activateDuring: <aBlockClosure> 
+
+
+Error log timestamp Saturday 25-05-13 09:38:54 AM
+
+Runtime error: OS Error: The system cannot find the file specified.
+
+Error(Exception)>>defaultAction
+Error(Exception)>>activateHandler: <anUndefinedObject> 
+Error(Exception)>>handle
+Error(Exception)>>signal
+Error class(Exception class)>>signal: <'OS Error: The system...'> 
+BasicRunProgram(Object)>>error: <'OS Error: The system...'> 
+BasicRunProgram(BasicProgram)>>terminateRun: <aFileError> 
+[] in BasicProgram>>errorHandlerBlock
+ExceptionHandler>>evaluateResponseBlock: <aBlockClosure> for: <aFileError> 
+[] in ExceptionHandler>>handle:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>handle: <aFileError> 
+ExceptionHandler>>findHandler: <aFileError> 
+FileError(Exception)>>activateHandler: <anExceptionHandler> 
+FileError(Exception)>>handle
+FileError(Exception)>>signal
+FileError class>>signal: <'OS Error: The system...'> hostErrorCode: <2> 
+HostFileSystemError>>defaultAction
+ExceptionHandler>>findHandler: <aHostFileSystemError> 
+HostFileSystemError(Exception)>>activateHandler: <anExceptionHandler> 
+HostFileSystemError(Exception)>>handle
+HostFileSystemError(Exception)>>signal
+HostFileSystemError class>>signalWith: <2> 
+FileHandle class>>osError: <2> 
+FileHandle class(Object)>>osError
+[] in FileHandle class>>open:access:share:create:attributes:
+ExceptionHandler>>evaluateProtectedBlock: <aBlockClosure> 
+[] in ExceptionHandler>>activateDuring:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>activateDuring: <aBlockClosure> 
+ExceptionHandler class>>handle: <anExceptionSet> with: <aBlockClosure> during: <aBlockClosure> 
+BlockClosure>>on: <anExceptionSet> do: <aBlockClosure> 
+FileHandle class>>open: <'I:\Liberty basic sch...'> access: <2147483648> share: <3> create: <3> attributes: <128> 
+FileHandle class>>open: <'serial.txt'> in: <aDirectory> access: <2147483648> share: <3> create: <3> attributes: <128> 
+FileHandle class>>openReadOnly: <'serial.txt'> in: <aDirectory> 
+File>>openReadOnly
+File>>readStream
+File class>>pathNameReadOnly: <'serial.txt'> in: <aDirectory> 
+Directory>>fileReadOnly: <'serial.txt'> 
+BasicFile>>from: <'serial.txt'> mode: <'INPUT'> handle: <'#ser'> 
+BasicFile class>>from: <'serial.txt'> mode: <'INPUT'> handle: <'#ser'> owner: <aBasicRunProgram> length: <anUndefinedObject> 
+[] in OpenCommand>>using:
+[] in BasicRunProgram>>begin
+ExceptionHandler>>evaluateProtectedBlock: <aBlockClosure> 
+[] in ExceptionHandler>>activateDuring:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>activateDuring: <aBlockClosure> 

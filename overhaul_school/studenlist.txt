@@ -1,0 +1,50 @@
+Serial  :1
+Name    :Raghuvaran
+Initial  :Ch
+Class   :X
+Sec     :A
+Father
+Name    :Srinivasa Rao
+Phone   :9493807708
+Locality:Khammam
+A.fee   :31000
+Serial  :2
+Name    :Sathwik
+Initial  :Ch
+Class   :X
+Sec     :A
+Father
+Name    :Srinivasa Rao
+Phone   :9490372244
+Locality:Khammam
+A.fee   :15000
+Serial  :3
+Name    :Sravan
+Initial  :P
+Class   :VII
+Sec     :A
+Father
+Name    :Srinivasa Rao P
+Phone   :9490365562
+Locality:Sathupally
+A.fee   :10000
+Serial  :4
+Name    :Sravya
+Initial  :P
+Class   :II
+Sec     :A
+Father
+Name    :P Srinivasa Rao
+Phone   :9491130562
+Locality:Sathupally
+A.fee   :5000
+Serial  :5
+Name    :Sravan
+Initial  :B
+Class   :X
+Sec     :A
+Father
+Name    :father
+Phone   :7799
+Locality:Nlg
+A.fee   :13000

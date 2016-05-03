@@ -1,0 +1,24 @@
+
+
+  'Don't use a main window
+  nomainwin
+  'Set the width and height of our dialog box
+  WindowWidth = 312
+  WindowHeight = 145
+  'Set up our controls
+  statictext #myhilo.instruct, "Enter the pen drive LETTER:", 14, 16, 176, 20
+  textbox #myhilo.guessField, 14, 41, 216, 25
+  button #myhilo.guessNow, "Proceed", [guessNow], UL, 238, 41, 50, 25
+  'statictext #myhilo.status, "Status Line:", 14, 81, 176, 20
+  'button #myhilo.guessNow, "About", [aboutMyhilo], UL, 238, 81, 50, 25
+  'Open our program's dialog box
+  open "Repair Pendrive" for dialog as #myhilo
+    print #myhilo, "font calibri 12"
+    print #myhilo, "trapclose [closeadd]"
+    wait
+
+[guessNow]
+print #myhilo.guessField, "!contents? drive$"
+close #myhilo
+open "
+

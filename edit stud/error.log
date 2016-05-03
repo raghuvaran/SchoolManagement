@@ -1,0 +1,312 @@
+
+
+Error log timestamp Monday 18-10-10 05:16:08 PM
+
+Runtime error: invalid branch label: [backadd]
+
+Error(Exception)>>defaultAction
+Error(Exception)>>activateHandler: <anUndefinedObject> 
+Error(Exception)>>handle
+Error(Exception)>>signal
+Error class(Exception class)>>signal: <'invalid branch label...'> 
+BasicProgram(Object)>>error: <'invalid branch label...'> 
+BasicProgram>>goto: <'[backadd]'> 
+BasicProgram>>gotoAndIfStoppedBegin: <'[backadd]'> 
+BasicProgram>>handlerName: <'[backadd]'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicProgram>>submitHandlerName: <'[backadd]'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicProgram>>submitHandlerName: <'[backadd]'> callParameters: <anOrderedCollection> 
+LibButton>>click
+BasicWindow>>click: <aLibButton> 
+LibButton(Button)>>click: <aLibButton> 
+Message>>perform
+Message>>evaluate
+LibButton(Object)>>triggerEvent: <#clicked> 
+LibButton(Button)>>triggerClickedEvent
+LibButton(Button)>>notifyClicked: <131910> 
+LibButton(ControlPane)>>asyncControlEvent: <0> with: <131910> 
+Message>>perform
+NotificationManager>>empty
+NotificationManager>>runPendingEvents
+NotificationManager>>runEventLoop
+Message>>perform
+Message>>evaluate
+Process>>safelyEvaluate: <aMessage> 
+Process>>evaluate: <aMessage> 
+
+
+Error log timestamp Tuesday 19-10-10 02:13:29 PM
+
+Runtime error: invalid branch label: [backmain]
+
+Error(Exception)>>defaultAction
+Error(Exception)>>activateHandler: <anUndefinedObject> 
+Error(Exception)>>handle
+Error(Exception)>>signal
+Error class(Exception class)>>signal: <'invalid branch label...'> 
+BasicProgram(Object)>>error: <'invalid branch label...'> 
+BasicProgram>>goto: <'[backmain]'> 
+BasicProgram>>gotoAndIfStoppedBegin: <'[backmain]'> 
+BasicProgram>>handlerName: <'[backmain]'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicProgram>>submitHandlerName: <'[backmain]'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicProgram>>submitHandlerName: <'[backmain]'> callParameters: <anOrderedCollection> 
+LibButton>>click
+BasicDialogBox(BasicWindow)>>click: <aLibButton> 
+LibButton(Button)>>click: <aLibButton> 
+Message>>perform
+Message>>evaluate
+LibButton(Object)>>triggerEvent: <#clicked> 
+LibButton(Button)>>triggerClickedEvent
+LibButton(Button)>>notifyClicked: <262860> 
+LibButton(Object)>>perform: <#notifyClicked:> with: <262860> 
+LibButton(ControlPane)>>asyncControlEvent: <0> with: <262860> 
+Message>>perform
+NotificationManager>>empty
+NotificationManager>>runPendingEvents
+NotificationManager>>runEventLoop
+Message>>perform
+Message>>evaluate
+Process>>safelyEvaluate: <aMessage> 
+Process>>evaluate: <aMessage> 
+
+
+Error log timestamp Tuesday 19-10-10 02:16:46 PM
+
+Runtime error: invalid branch label: [closeedit1]
+
+Error(Exception)>>defaultAction
+Error(Exception)>>activateHandler: <anUndefinedObject> 
+Error(Exception)>>handle
+Error(Exception)>>signal
+Error class(Exception class)>>signal: <'invalid branch label...'> 
+BasicProgram(Object)>>error: <'invalid branch label...'> 
+BasicProgram>>goto: <'[closeedit1]'> 
+BasicProgram>>gotoAndIfStoppedBegin: <'[closeedit1]'> 
+BasicProgram>>handlerName: <'[closeedit1]'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicProgram>>submitHandlerName: <'[closeedit1]'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicProgram>>submitHandlerName: <'[closeedit1]'> callParameters: <anOrderedCollection> 
+LibButton>>click
+BasicWindow>>click: <aLibButton> 
+LibButton(Button)>>click: <aLibButton> 
+Message>>perform
+Message>>evaluate
+LibButton(Object)>>triggerEvent: <#clicked> 
+LibButton(Button)>>triggerClickedEvent
+LibButton(Button)>>notifyClicked: <328446> 
+LibButton(Object)>>perform: <#notifyClicked:> with: <328446> 
+LibButton(ControlPane)>>asyncControlEvent: <0> with: <328446> 
+Message>>perform
+NotificationManager>>empty
+NotificationManager>>runPendingEvents
+NotificationManager>>runEventLoop
+Message>>perform
+Message>>evaluate
+Process>>safelyEvaluate: <aMessage> 
+Process>>evaluate: <aMessage> 
+
+
+Error log timestamp Tuesday 19-10-10 02:29:54 PM
+
+Runtime error: invalid branch label: [editsearch]
+
+Error(Exception)>>defaultAction
+Error(Exception)>>activateHandler: <anUndefinedObject> 
+Error(Exception)>>handle
+Error(Exception)>>signal
+Error class(Exception class)>>signal: <'invalid branch label...'> 
+BasicProgram(Object)>>error: <'invalid branch label...'> 
+BasicProgram>>goto: <'[editsearch]'> 
+BasicProgram>>gotoAndIfStoppedBegin: <'[editsearch]'> 
+BasicProgram>>handlerName: <'[editsearch]'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicProgram>>submitHandlerName: <'[editsearch]'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicProgram>>submitHandlerName: <'[editsearch]'> callParameters: <anOrderedCollection> 
+LibButton>>click
+BasicDialogBox(BasicWindow)>>click: <aLibButton> 
+LibButton(Button)>>click: <aLibButton> 
+Message>>perform
+Message>>evaluate
+LibButton(Object)>>triggerEvent: <#clicked> 
+LibButton(Button)>>triggerClickedEvent
+LibButton(Button)>>notifyClicked: <2294514> 
+LibButton(Object)>>perform: <#notifyClicked:> with: <2294514> 
+LibButton(ControlPane)>>asyncControlEvent: <0> with: <2294514> 
+Message>>perform
+NotificationManager>>empty
+NotificationManager>>runPendingEvents
+NotificationManager>>runEventLoop
+Message>>perform
+Message>>evaluate
+Process>>safelyEvaluate: <aMessage> 
+Process>>evaluate: <aMessage> 
+
+
+Error log timestamp Tuesday 19-10-10 02:30:20 PM
+
+Runtime error: invalid branch label: [editsearch]
+
+Error(Exception)>>defaultAction
+Error(Exception)>>activateHandler: <anUndefinedObject> 
+Error(Exception)>>handle
+Error(Exception)>>signal
+Error class(Exception class)>>signal: <'invalid branch label...'> 
+BasicProgram(Object)>>error: <'invalid branch label...'> 
+BasicProgram>>goto: <'[editsearch]'> 
+BasicProgram>>gotoAndIfStoppedBegin: <'[editsearch]'> 
+BasicProgram>>handlerName: <'[editsearch]'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicProgram>>submitHandlerName: <'[editsearch]'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicProgram>>submitHandlerName: <'[editsearch]'> callParameters: <anOrderedCollection> 
+LibButton>>click
+BasicDialogBox(BasicWindow)>>click: <aLibButton> 
+LibButton(Button)>>click: <aLibButton> 
+Message>>perform
+Message>>evaluate
+LibButton(Object)>>triggerEvent: <#clicked> 
+LibButton(Button)>>triggerClickedEvent
+LibButton(Button)>>notifyClicked: <1180310> 
+LibButton(Object)>>perform: <#notifyClicked:> with: <1180310> 
+LibButton(ControlPane)>>asyncControlEvent: <0> with: <1180310> 
+Message>>perform
+NotificationManager>>empty
+NotificationManager>>runPendingEvents
+NotificationManager>>runEventLoop
+Message>>perform
+Message>>evaluate
+Process>>safelyEvaluate: <aMessage> 
+Process>>evaluate: <aMessage> 
+
+
+Error log timestamp Tuesday 19-10-10 02:33:05 PM
+
+Runtime error: invalid branch label: [backmain]
+
+Error(Exception)>>defaultAction
+Error(Exception)>>activateHandler: <anUndefinedObject> 
+Error(Exception)>>handle
+Error(Exception)>>signal
+Error class(Exception class)>>signal: <'invalid branch label...'> 
+BasicProgram(Object)>>error: <'invalid branch label...'> 
+BasicProgram>>goto: <'[backmain]'> 
+BasicProgram>>gotoAndIfStoppedBegin: <'[backmain]'> 
+BasicProgram>>handlerName: <'[backmain]'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicProgram>>submitHandlerName: <'[backmain]'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicProgram>>submitHandlerName: <'[backmain]'> callParameters: <anOrderedCollection> 
+LibButton>>click
+BasicWindow>>click: <aLibButton> 
+LibButton(Button)>>click: <aLibButton> 
+Message>>perform
+Message>>evaluate
+LibButton(Object)>>triggerEvent: <#clicked> 
+LibButton(Button)>>triggerClickedEvent
+LibButton(Button)>>notifyClicked: <3736306> 
+LibButton(Object)>>perform: <#notifyClicked:> with: <3736306> 
+LibButton(ControlPane)>>asyncControlEvent: <0> with: <3736306> 
+Message>>perform
+NotificationManager>>empty
+NotificationManager>>runPendingEvents
+NotificationManager>>runEventLoop
+Message>>perform
+Message>>evaluate
+Process>>safelyEvaluate: <aMessage> 
+Process>>evaluate: <aMessage> 
+
+
+Error log timestamp Tuesday 19-10-10 02:33:06 PM
+
+Runtime error: invalid branch label: [closeedit1]
+
+Error(Exception)>>defaultAction
+Error(Exception)>>activateHandler: <anUndefinedObject> 
+Error(Exception)>>handle
+Error(Exception)>>signal
+Error class(Exception class)>>signal: <'invalid branch label...'> 
+BasicProgram(Object)>>error: <'invalid branch label...'> 
+BasicProgram>>goto: <'[closeedit1]'> 
+BasicProgram>>gotoAndIfStoppedBegin: <'[closeedit1]'> 
+BasicProgram>>handlerName: <'[closeedit1]'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicProgram>>submitHandlerName: <'[closeedit1]'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicProgram>>submitHandlerName: <'[closeedit1]'> callParameters: <anOrderedCollection> 
+LibButton>>click
+BasicWindow>>click: <aLibButton> 
+LibButton(Button)>>click: <aLibButton> 
+Message>>perform
+Message>>evaluate
+LibButton(Object)>>triggerEvent: <#clicked> 
+LibButton(Button)>>triggerClickedEvent
+LibButton(Button)>>notifyClicked: <1377408> 
+LibButton(ControlPane)>>asyncControlEvent: <0> with: <1377408> 
+Message>>perform
+NotificationManager>>empty
+NotificationManager>>runPendingEvents
+NotificationManager>>runEventLoop
+Message>>perform
+Message>>evaluate
+Process>>safelyEvaluate: <aMessage> 
+Process>>evaluate: <aMessage> 
+
+
+Error log timestamp Tuesday 19-10-10 02:33:10 PM
+
+Runtime error: invalid branch label: [editsearch]
+
+Error(Exception)>>defaultAction
+Error(Exception)>>activateHandler: <anUndefinedObject> 
+Error(Exception)>>handle
+Error(Exception)>>signal
+Error class(Exception class)>>signal: <'invalid branch label...'> 
+BasicProgram(Object)>>error: <'invalid branch label...'> 
+BasicProgram>>goto: <'[editsearch]'> 
+BasicProgram>>gotoAndIfStoppedBegin: <'[editsearch]'> 
+BasicProgram>>handlerName: <'[editsearch]'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicProgram>>submitHandlerName: <'[editsearch]'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicProgram>>submitHandlerName: <'[editsearch]'> callParameters: <anOrderedCollection> 
+LibButton>>click
+BasicWindow>>click: <aLibButton> 
+LibButton(Button)>>click: <aLibButton> 
+Message>>perform
+Message>>evaluate
+LibButton(Object)>>triggerEvent: <#clicked> 
+LibButton(Button)>>triggerClickedEvent
+LibButton(Button)>>notifyClicked: <1114478> 
+LibButton(ControlPane)>>asyncControlEvent: <0> with: <1114478> 
+Message>>perform
+NotificationManager>>empty
+NotificationManager>>runPendingEvents
+NotificationManager>>runEventLoop
+Message>>perform
+Message>>evaluate
+Process>>safelyEvaluate: <aMessage> 
+Process>>evaluate: <aMessage> 
+
+
+Error log timestamp Tuesday 19-10-10 02:46:17 PM
+
+Runtime error: invalid branch label: [closeedit1]
+
+Error(Exception)>>defaultAction
+Error(Exception)>>activateHandler: <anUndefinedObject> 
+Error(Exception)>>handle
+Error(Exception)>>signal
+Error class(Exception class)>>signal: <'invalid branch label...'> 
+BasicProgram(Object)>>error: <'invalid branch label...'> 
+BasicProgram>>goto: <'[closeedit1]'> 
+BasicProgram>>gotoAndIfStoppedBegin: <'[closeedit1]'> 
+BasicProgram>>handlerName: <'[closeedit1]'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicProgram>>submitHandlerName: <'[closeedit1]'> evaluate: <aBlockClosure> callParameters: <anOrderedCollection> 
+BasicProgram>>submitHandlerName: <'[closeedit1]'> callParameters: <anOrderedCollection> 
+LibButton>>click
+BasicWindow>>click: <aLibButton> 
+LibButton(Button)>>click: <aLibButton> 
+Message>>perform
+Message>>evaluate
+LibButton(Object)>>triggerEvent: <#clicked> 
+LibButton(Button)>>triggerClickedEvent
+LibButton(Button)>>notifyClicked: <3801682> 
+LibButton(Object)>>perform: <#notifyClicked:> with: <3801682> 
+LibButton(ControlPane)>>asyncControlEvent: <0> with: <3801682> 
+Message>>perform
+NotificationManager>>empty
+NotificationManager>>runPendingEvents
+NotificationManager>>runEventLoop
+Message>>perform
+Message>>evaluate
+Process>>safelyEvaluate: <aMessage> 
+Process>>evaluate: <aMessage> 
